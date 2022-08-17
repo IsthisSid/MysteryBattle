@@ -1,0 +1,18 @@
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\bin\Debug\net6.0-windows\Mystery Battle .Net Game.exe
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\bin\Debug\net6.0-windows\Mystery Battle .Net Game.deps.json
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\bin\Debug\net6.0-windows\Mystery Battle .Net Game.runtimeconfig.json
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\bin\Debug\net6.0-windows\Mystery Battle .Net Game.dll
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\bin\Debug\net6.0-windows\Mystery Battle .Net Game.pdb
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.csproj.AssemblyReference.cache
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery_Battle_.Net_Game.Form1.resources
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery_Battle_.Net_Game.Properties.Resources.resources
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.csproj.GenerateResource.cache
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.AssemblyInfoInputs.cache
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.AssemblyInfo.cs
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.csproj.CoreCompileInputs.cache
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.dll
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\refint\Mystery Battle .Net Game.dll
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.pdb
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\Mystery Battle .Net Game.genruntimeconfig.cache
+D:\MyProjectsLibrary\Mystery Battle .Net Game\Mystery Battle .Net Game\obj\Debug\net6.0-windows\ref\Mystery Battle .Net Game.dll
